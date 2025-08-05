@@ -23,4 +23,3 @@ jobs:
         with:
           branch: "published"
           update-branch: true
-          github-token: ${{ secrets.RETYPE_PAT }}
