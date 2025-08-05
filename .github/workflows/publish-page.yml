@@ -1,0 +1,25 @@
+name: Publish Page
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Build with Retype
+        uses: retypeapp/action-build@latest
+
+      - name: Publish to GitHub Pages
+        uses: retypeapp/action-github-pages@latest
+        with:
+          branch: "published"
+          update-branch: true
