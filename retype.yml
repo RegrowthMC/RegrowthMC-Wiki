@@ -1,2 +1,24 @@
+branding:
+  label: ""
+  logo: static/logo.png
+  logoDark: static/logo.png
+  title: RegrowthMC
+edit:
+  repo: "https://github.com/RegrowthMC/RegrowthMC-Wiki/"
+  label: "Suggest an edit to this page"
+editor:
+  enabled: false
+favicon: static/logo.png
+footer:
+  copyright: "© 2025 RegrowthMC, All rights reserved. | RegrowthMC is in no way affiliated with Minecraft, Mojang AB and/or Notch Development AB."
+links:
+  - text: Join Us
+    link: "https://www.regrowthmc.net/connect"
+  - text: Store
+    link: "https://store.regrowthmc.net/"
+  - text: Discord
+    link: "https://regrowthmc.net/discord"
+meta:
+  title: "RegrowthMC"
 poweredByRetype: false
-url: "wiki.regrowthmc.net"
+url: wiki.regrowthmc.net
