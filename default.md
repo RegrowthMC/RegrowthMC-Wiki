@@ -7,7 +7,6 @@ RegrowthMC is a cosy minecraft server focused mainly on community and enjoying a
 
 When playing on our server please make sure you are following all of the server's rules and regulations to get the best possible experience.
 
-## Joining the Server
 We cannot wait for you to join us on Regrowth. You can join the server on both Java Edition and Bedrock Edition few different join methods. Follow the tutorials below for your edition/console!
 
 ==- :sparkles: Connect on Java Edition
