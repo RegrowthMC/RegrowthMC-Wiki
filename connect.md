@@ -6,7 +6,7 @@ icon: ':herb:'
 We cannot wait for you to join us on Regrowth. You can join the server on both Java Edition and Bedrock Edition few different join methods. Follow the tutorials below for your edition/console!
 
 ==- Connect on Java Edition
-1. Open Minecraft on version 1.21 or higher
+1. Open Minecraft on the latest version
 2. Go to the "**Multiplayer**" tab
 3. Press "**Add Server**"
 4. Put "**regrowthmc.net**" as the Server Address
