@@ -35,8 +35,6 @@ https://www.youtube.com/embed/SfkORMllswg
 ==- Connect on Bedrock Edition
 +++ Video Tutorial
 https://www.youtube.com/embed/kdqoGCynQM4
-<iframe width="480px" height="270px" src="https://www.youtube.com/embed/kdqoGCynQM4" frameborder="0" allowfullscreen style="max-height:270px;max-width:480px;margin:30px;"></iframe>
-
 +++ Text Tutorial
 1. Open Minecraft Bedrock Edition on the latest version
 2. Click "**Play**"
