@@ -1,3 +1,7 @@
+---
+icon: ':herb:'
+---
+
 ==- Connect on Java Edition
 +++ Video Tutorial
 https://www.youtube.com/embed/OeVEqawl3dI
