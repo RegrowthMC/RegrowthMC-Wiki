@@ -2,6 +2,9 @@
 icon: ':herb:'
 ---
 
+# Joining RegrowthMC
+We cannot wait for you to join us on Regrowth. You can join the server on both Java Edition and Bedrock Edition few different join methods. Follow the tutorials below for your edition/console!
+
 ==- Connect on Java Edition
 +++ Video Tutorial
 https://www.youtube.com/embed/OeVEqawl3dI
