@@ -1,6 +1,7 @@
 ---
 icon: ':seedling:'
 ---
+
 # Welcome to RegrowthMC
 RegrowthMC is a cosy minecraft server focused mainly on community and enjoying a unique version of survival with friends!
 
